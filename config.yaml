@@ -1,0 +1,8 @@
+base_path: "C:/Users/lagah/Documents/dev/app/Mock_Shared_Drive"
+local_path: "C:/Users/lagah/Documents/dev/app/Mock_Local_Drive"
+files:
+  lab_cases: "/Internal_Drive/Lab_Case_list.xlsx"
+  atm_summary: "/Internal_Drive/ATM_c.3576G~A_p.Lys1192Lys.xlsx"
+  invitae_summary: "/External_Drive/Invitae_List.xlsx"
+  clinical_summary: "/Internal_Drive/Clinic_List.xlsx"
+  research_summary: "/Research_Drive/Research_List.xlsx"
